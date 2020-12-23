@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This is a website which will display upcoming events using Evenbrite's API and will be used in a university setting. The client the website was made for wanted a website that could be used to display the work of their team and to retrieve applications that students have submitted if they are interested in becoming a student ambassador. The website was made in WordPress using Elementor, Astra Templates, Eventbrite, The Events Calendar and the WPForms plugin.
+> This is a website which will display upcoming events using Evenbrite's API and will be used in a university setting. The client the website was made for wanted a website that could be used to display the work of their team and to retrieve applications that students have submitted if they are interested in becoming a student ambassador. The website was made in WordPress using Elementor, Astra Templates, Eventbrite, The Events Calendar and the WPForms plugin. The site is currently being hosted on a Google Cloud instance for testing.
 
 
 <h3 align="left">Languages and Tools:</h3>
